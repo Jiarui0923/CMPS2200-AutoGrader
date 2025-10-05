@@ -21,7 +21,6 @@ Completing the first section is enough to start using the autograder.
 If you encounter an error, please check the [Common Issues](#common-issues) section first.  
 If the issue is not resolved, follow the **Issue Reporting** instructions.
 
----
 
 ### How to Test Your Code
 
@@ -40,7 +39,6 @@ If the issue is not resolved, follow the **Issue Reporting** instructions.
 ⚠️ **Important:** The autograder runs **entirely in your own browser**.  
 Your tests and submissions are **not visible** to your professor or TA.
 
----
 
 ### How to Identify and Report an Issue
 
@@ -53,7 +51,6 @@ If an error occurs:
    - Go to the **Terminal** tab and copy the **error message only** into your email.  
    - Include a **short description** of the issue along with the copied information.
 
----
 
 ### Extended Functions
 
@@ -68,7 +65,6 @@ If an error occurs:
 - By default, the theme is set to **Auto**, following your system preference.  
 - You can manually switch themes using the **theme toggle button** in the navigation bar, next to *Introduction to Algorithms*.
 
----
 
 ## Common Issues
 ### File Not Found
@@ -84,7 +80,6 @@ This error may occur for the following reasons:
 If you see errors related to missing packages:
 - Ensure that a `requirements.txt` file is included in your forked or copied repository.
 
----
 
 ## Customize Configuration
 This section is intended for **course tutors** who want to customize the autograder.  
@@ -166,8 +161,7 @@ If you need further support, customization, or find any bugs, please either:
 
 If you would like to reference this repository, please cite it as:  
 ```bibtex
-@misc{Jiarui0923_CMPS2200_AutoGrader,
-  author       = {Jiarui0923},
+@misc{CMPS2200_AutoGrader,
   title        = {CMPS2200-AutoGrader: An autograder for CMPS2200 Introduction to Algorithms},
   howpublished = {\url{https://github.com/Jiarui0923/CMPS2200-AutoGrader}},
   year         = {2025},
